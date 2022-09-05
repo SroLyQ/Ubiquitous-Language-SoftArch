@@ -27,3 +27,18 @@
 | Slamming   | The term used to describe what occurs when a customer’s long distance service is switched from one long distance company to another without the customer’s permission. Such unauthorized switching violates FCC rules.                                                     |
 | Tariff     | The documents filed by a carrier describing their services and the payments to be charged for such services.                                                                                                                                                               |
 | Unbundling | The term used to describe the access provided by local exchange carriers so that other service providers can buy or lease portions of its network elements, such as interconnection loops, to serve subscribers.                                                           |
+
+<h1>Hotel & Lodging</h1>
+
+| Word         | Definition                                                                                                                                    |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Allotment    | The number of hotel rooms available for sale by an agent or supplier                                                                          |
+| Attrition    | A clause included in a hotel contract to ensure an organization fulfills their contracted obligations                                         |
+| Bed Tax      | An added price to a hotel room imposed by the city or country based on where the hotel is located.                                            |
+| Booking Pace | Average speed of individual bookings between group booking date and arrival date.                                                             |
+| Cold Call    | A solicitation of business to convince potential customers to buy from a salesperson with no previous contact prior to the call.              |
+| Extranet     | Back-end of a hotel sales website allowing hotels to log in and enter all their rates, availability, and restrictions.                        |
+| Folio        | An overview of a guest's hotel account including all charges and payments made, stored at the reception desk.                                 |
+| Full Board   | A rate that includes a bed and covers all standard meals.                                                                                     |
+| Hot Buttons  | An issue that evokes emotional reactions, issues, and legal principles in hotel contracts that causes friction between planners and suppliers |
+| Lanai        | A room that has a balcony or patio with an overlook of water or garden.                                                                       |
